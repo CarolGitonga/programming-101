@@ -52,3 +52,13 @@ if __name__=="__main__":
     main()
 #this block ensures that the main function is only executed if the script
 #  is run directly (not imported as a module).
+
+#Output
+#Mesa says WOOF
+#Mary says  barkbark 
+#5/12/2004
+#5/6/2004
+#Mesa says woofywoofy
+#Puppy of Mesa and Mary says woofywoofy barkbark 
+#Puppy of Mesa and Mary
+#5/12/2005
