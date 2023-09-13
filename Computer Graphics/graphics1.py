@@ -1,3 +1,11 @@
+"""
+To process the records in the drawing1.txt file we can write a Python program
+that reads the lines of this file and does the appropriate turtle graphics commands
+for each record in the file. Since each record (i.e. drawing command) is on its own
+line in the file format we can read the file by using a for
+loop to read the lines of the file. This program that reads these
+commands and processes each record in the file, drawing the picture that it contains.
+"""
 # import the turtle graphics module
 import turtle
 
